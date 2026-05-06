@@ -10,6 +10,8 @@
 
 [English README](README.md)
 
+**Nexus Mods:** https://www.nexusmods.com/slaythespire2/mods/808
+
 ---
 
 ## 기능
@@ -60,7 +62,7 @@
 
 ## 설치
 
-1. [GitHub Releases](../../releases) 에서 최신 `Sts2OrbLayout-vX.Y.Z.zip` 다운로드
+1. [Nexus Mods](https://www.nexusmods.com/slaythespire2/mods/808) 또는 [GitHub Releases](../../releases) 에서 최신 `Sts2OrbLayout-vX.Y.Z.zip` 다운로드
 2. `Sts2OrbLayout.dll` 과 `Sts2OrbLayout.json` 을 다음 폴더에 압축 해제:
    ```
    <Slay the Spire 2 설치 경로>/mods/Sts2OrbLayout/

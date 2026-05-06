@@ -10,6 +10,8 @@ A **Slay the Spire 2** mod for the Defect that lets you reshape the orb slot lay
 
 [한국어 README](README.ko.md)
 
+**Nexus Mods:** https://www.nexusmods.com/slaythespire2/mods/808
+
 ---
 
 ## Features
@@ -60,7 +62,7 @@ Delete the file to fall back to the default fan layout. The mod will recreate it
 
 ## Installation
 
-1. Download the latest `Sts2OrbLayout-vX.Y.Z.zip` from [GitHub Releases](../../releases).
+1. Download the latest `Sts2OrbLayout-vX.Y.Z.zip` from [Nexus Mods](https://www.nexusmods.com/slaythespire2/mods/808) or [GitHub Releases](../../releases).
 2. Extract `Sts2OrbLayout.dll` and `Sts2OrbLayout.json` into:
    ```
    <Slay the Spire 2 install>/mods/Sts2OrbLayout/
